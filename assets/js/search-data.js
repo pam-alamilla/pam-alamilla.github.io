@@ -56,8 +56,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-started-my-research-internship-at-deep-genomics",
-          title: 'Started my research internship at Deep Genomics!',
+            },},{id: "news-today-i-started-my-research-internship-at-deep-genomics",
+          title: 'Today I started my research internship at Deep Genomics! 💻',
           description: "",
           section: "News",},{id: "news-with-the-presentation-of-my-practicum-poster-and-a-3-minute-talk-i-ve-completed-all-the-coursework-for-my-master-s-degree",
           title: 'With the presentation of my practicum poster and a 3-minute talk, I’ve completed...',

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started my research internship at Deep Genomics!
+Today I started my research internship at Deep Genomics! 💻

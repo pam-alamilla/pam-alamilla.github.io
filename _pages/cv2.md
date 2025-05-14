@@ -6,15 +6,14 @@ nav: true
 nav_order: 7
 ---
 
-# Pamela Alamilla
-
+# Pamela Alamilla  
+---  
 Email: [pam.alamilla@gmail.com](mailto:pam.alamilla@gmail.com)  
 LinkedIn: [linkedin.com/in/pamela-alamilla](https://linkedin.com/in/pamela-alamilla/)  
-Toronto, ON
+Toronto, ON  
 
-## Experience
----
-
+## Experience  
+---  
 **Research Intern** **(Jan 2025 - Present)**  
 Deep Genomics
 - Point 1
@@ -34,7 +33,7 @@ University of Toronto Surgical Skills Centre
 - Point 3
 
 ## Education
-
+---  
 **Master of Health Science in Medical Genomics**  
 **Sep 2023 - Jun 2025**  
 University of Toronto
@@ -49,12 +48,13 @@ University of Toronto
 - **Extracurriculars:** Science Writer for The Varsity, Member of the Global Society for Genetics and Genome Biology, Trinity College Applicant Profile Reviewer
 
 ## Skills
-
+---  
 - **Programming Languages:** Python,
 - **Tools and Frameworks:** Git, scikit-learn
 - **Languages:** English (Native Proficiency), Spanish (Native Proficiency), French (Working Proficiency)
 
 ## Awards and Honors
+---  
 - University of Toronto Dean’s List Scholar 2023, 2021  
 - University of Toronto Scholar ($7500) 2019  
 - Trinity College Admission Scholarship ($2000)	2019

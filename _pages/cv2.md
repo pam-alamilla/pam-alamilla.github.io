@@ -13,6 +13,7 @@ LinkedIn: [linkedin.com/in/pamela-alamilla](https://linkedin.com/in/pamela-alami
 Toronto, ON
 
 ## Experience
+---
 
 **Research Intern** **(Jan 2025 - Present)**  
 Deep Genomics

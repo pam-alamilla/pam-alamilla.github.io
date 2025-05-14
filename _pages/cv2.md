@@ -20,7 +20,7 @@ Deep Genomics
 - Point 2
 - Point 3
 
-**Research Assistant** <div style="text-align: right"> **(Apr 2024 - Dec 2024)** </div>
+**Research Assistant** **(Apr 2024 - Dec 2024)**
 Kridel Lab, Princess Margaret Cancer Centre
 - Point 1
 - Point 2

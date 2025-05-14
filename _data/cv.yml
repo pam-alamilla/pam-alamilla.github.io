@@ -13,21 +13,12 @@
   contents:
     - title: Master of Health Science in Medical Genomics
       institution: University of Toronto
-      year: Sept 2023 - Jun 2025
+      year: 2025
       description:
-        - **Relevant Coursework:** Advanced Human Genetics, Biological Statistics, Genomic Methodologies, Next Generation Sequencing Data Generation Lab, Next Generation Sequencing Data Analysis and Interpretation
-
-        - Description 2.
         - title: Description 3.
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
 
 - title: Experience
   type: time_table

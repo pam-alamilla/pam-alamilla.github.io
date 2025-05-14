@@ -1,10 +1,12 @@
 ---
-layout: cv2
+layout: page
 permalink: /cv2/
 title: CV
 nav: true
 nav_order: 7
 ---
+
+<div id="vue-smart-pages-preview">
 
 # Pamela Alamilla
 
@@ -18,3 +20,5 @@ nav_order: 7
 
 **Research Intern**
   : **Jan 2025 - Present**
+
+</div>

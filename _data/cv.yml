@@ -11,11 +11,12 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master of Health Science in Medical Genomics
+      institution: University of Toronto
+      year: Sept 2023 - Jun 2025
       description:
-        - Description 1.
+        - **Relevant Coursework:** Advanced Human Genetics, Biological Statistics, Genomic Methodologies, Next Generation Sequencing Data Generation Lab, Next Generation Sequencing Data Analysis and Interpretation
+
         - Description 2.
         - title: Description 3.
           contents:

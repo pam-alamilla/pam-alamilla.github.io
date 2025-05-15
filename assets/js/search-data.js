@@ -23,19 +23,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-pamela-alamilla-39-s-cv",
+          title: "Pamela Alamilla&#39;s CV",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv2/";
+          },
         },{id: "nav-news",
           title: "News",
           description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/news/";
-          },
-        },{id: "nav-",
-          title: "",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv2/";
           },
         },{id: "books-the-godfather",
           title: 'The Godfather',

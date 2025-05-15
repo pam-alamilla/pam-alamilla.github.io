@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Programmer",
+    "name": "Pamela Alamilla",
+    "label": "",
     "image": "",
-    "email": "john@gmail.com",
-    "phone": "(912) 555-4321",
-    "url": "https://johndoe.com",
+    "email": "pam.alamilla@gmail.com",
+    "phone": "",
+    "url": "",
     "summary": "A summary of John Doe…",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Toronto",
+      "countryCode": "Canada",
+      "region": "ON"
     },
     "profiles": [{
       "network": "Twitter",

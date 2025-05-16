@@ -58,13 +58,39 @@
       "Point 2",
       "Point 3"
     ]
-    },
+  },
     {
     "name": "Graduate Department of Pharmaceutical Sciences, University of Toronto",
     "position": "Research Assistant",
     "url": "",
     "startDate": "2022-10-01",
     "endDate": "2023-03-01",
+    "summary": "",
+    "highlights": [
+      "Point 1",
+      "Point 2",
+      "Point 3"
+    ]
+  },
+    {
+    "name": "Division of Teaching Labs, University of Toronto",
+    "position": "Medicine Youth Summer Program Instructor",
+    "url": "",
+    "startDate": "2022-05-01",
+    "endDate": "2022-08-01",
+    "summary": "",
+    "highlights": [
+      "Point 1",
+      "Point 2",
+      "Point 3"
+    ]
+  },
+    {
+    "name": "Department of Molecular Genetics, University of Toronto",
+    "position": "Course Development Assistant",
+    "url": "",
+    "startDate": "2021-10-01",
+    "endDate": "2022-03-01",
     "summary": "",
     "highlights": [
       "Point 1",

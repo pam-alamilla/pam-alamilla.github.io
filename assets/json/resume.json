@@ -103,12 +103,13 @@
     "position": "Population Genetics Research Assistant",
     "url": "https://osmond-lab.github.io/",
     "startDate": "2021-05",
-    "endDate": "2022-08",
+    "endDate": "2021-08",
     "summary": "",
     "highlights": [
-      "Point 1",
-      "Point 2",
-      "Point 3"
+      "Modelled the evolution of diploid genomes in 2D space with SLiM simulation program.",
+      "Scripted in Python and Unix Shell to extract simulated genomic data and visualize coalescent trees.",
+      "Collaborated with lab members during weekly lab meetings and on Slack messaging platform to solve coding problems and share individual progress.",
+      "Proposed and organized the execution of a team project to generate a tree visualization tutorial for academics."
     ]
   }
   ],

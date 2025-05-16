@@ -34,9 +34,9 @@
     ]
   },
     {
-    "name": "Princess Margaret Cancer Centre",
+    "name": "Kridel Lab, Princess Margaret Cancer Centre",
     "position": "Research Assistant",
-    "url": "",
+    "url": "http://kridel-lab.ca/",
     "startDate": "2024-04",
     "endDate": "2024-12",
     "summary": "",
@@ -49,7 +49,7 @@
     {
     "name": "University of Toronto Surgical Skills Centre",
     "position": "Surgical Technician",
-    "url": "",
+    "url": "http://www.uoftssc.com/",
     "startDate": "2018-11",
     "endDate": "2024-12",
     "summary": "",
@@ -60,9 +60,9 @@
     ]
   },
     {
-    "name": "Graduate Department of Pharmaceutical Sciences, University of Toronto",
+    "name": "Pardee Lab, University of Toronto",
     "position": "Research Assistant",
-    "url": "",
+    "url": "https://www.pardeelab.org/",
     "startDate": "2022-10",
     "endDate": "2023-03",
     "summary": "",
@@ -75,7 +75,7 @@
     {
     "name": "Division of Teaching Labs, University of Toronto",
     "position": "Medicine Youth Summer Program Instructor",
-    "url": "",
+    "url": "https://ysp.utoronto.ca/",
     "startDate": "2022-05",
     "endDate": "2022-08",
     "summary": "",
@@ -89,6 +89,19 @@
     "name": "Department of Molecular Genetics, University of Toronto",
     "position": "Course Development Assistant",
     "url": "",
+    "startDate": "2021-10",
+    "endDate": "2022-03",
+    "summary": "",
+    "highlights": [
+      "Point 1",
+      "Point 2",
+      "Point 3"
+    ]
+  },
+    {
+    "name": "Osmond Lab, University of Toronto",
+    "position": "Population Genetics Research Assistant",
+    "url": "https://osmond-lab.github.io/",
     "startDate": "2021-10",
     "endDate": "2022-03",
     "summary": "",

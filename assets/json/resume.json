@@ -101,11 +101,18 @@
     ]
   }],
   "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
+    "title": "University of Toronto Scholar ($7500)",
+    "date": "2019",
+    "awarder": "",
+    "summary": ""
+  },
+    {
+    "title": "Trinity College Admission Scholarship ($2000)",
+    "date": "2019",
+    "awarder": "",
+    "summary": ""
+  }
+  ],
   "certificates": [{
     "name": "Certificate",
     "date": "2021-11-07",

@@ -28,9 +28,51 @@
     "endDate": "",
     "summary": "",
     "highlights": [
-      "Started the company"
+      "Point 1",
+      "Point 2",
+      "Point 3"
     ]
-  }],
+  },
+    {
+    "name": "Princess Margaret Cancer Centre",
+    "position": "Research Assistant",
+    "url": "",
+    "startDate": "2024-04-01",
+    "endDate": "2024-12-01",
+    "summary": "",
+    "highlights": [
+      "Point 1",
+      "Point 2",
+      "Point 3"
+    ]
+  },
+    {
+    "name": "University of Toronto Surgical Skills Centre",
+    "position": "Surgical Technician",
+    "url": "",
+    "startDate": "2018-11-01",
+    "endDate": "2024-12-01",
+    "summary": "",
+    "highlights": [
+      "Point 1",
+      "Point 2",
+      "Point 3"
+    ]
+    },
+    {
+    "name": "Graduate Department of Pharmaceutical Sciences, University of Toronto",
+    "position": "Research Assistant",
+    "url": "",
+    "startDate": "2022-10-01",
+    "endDate": "2023-03-01",
+    "summary": "",
+    "highlights": [
+      "Point 1",
+      "Point 2",
+      "Point 3"
+    ]
+  }
+  ],
   "education": [{
     "institution": "University of Toronto",
     "url": "",

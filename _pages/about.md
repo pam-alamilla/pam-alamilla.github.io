@@ -19,4 +19,10 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
  
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I’m Pam, a computational biologist with a strong foundation in human genomics and bioinformatics. I’m particularly interested in using machine learning to uncover hidden patterns of disease in large multiomic datasets.
+
+I recently completed a Master of Health Science in Medical Genomics at the University of Toronto, where I gained hands-on experience in generating, analyzing, and interpreting next-generation sequencing data. The program featured rigorous coursework in advanced human genetics, biostatistics, computational biology, and the communication of genetic information.
+
+My training culminated in a practicum at Deep Genomics, an AI-driven drug discovery company, where I explored methods for integrating and analyzing multimodal biological data. Following the practicum, I continued the project as a research intern with the company.
+
+Outside of science, I enjoy weightlifting, all kinds of crafting, and reading - mostly non-fiction and memoirs.

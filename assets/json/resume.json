@@ -20,21 +20,8 @@
       "url": "https://linkedin.com/in/pamela-alamilla/"
     }]
   },
-  "industry experience": [{
-    "name": "Deep Genomics, Target and Systems Biology",
-    "position": "Research Intern",
-    "url": "https://deepgenomics.com/",
-    "startDate": "2025-01",
-    "endDate": "",
-    "summary": "",
-    "highlights": [
-      "Point 1",
-      "Point 2",
-      "Point 3"
-    ]
-  },
     "work": [{
-    "name": "Deep Genomics",
+    "name": "Deep Genomics, Target & Systems Biology",
     "position": "Research Intern",
     "url": "https://deepgenomics.com/",
     "startDate": "2025-01",
@@ -47,16 +34,18 @@
     ]
   },
     {
-    "name": "Kridel Lab, Princess Margaret Cancer Centre",
+    "name": "Princess Margaret Cancer Centre, Kridel Lab",
     "position": "Research Assistant",
     "url": "http://kridel-lab.ca/",
     "startDate": "2024-04",
     "endDate": "2024-12",
     "summary": "",
     "highlights": [
-      "Point 1",
-      "Point 2",
-      "Point 3"
+      "Applied dimensionality reduction techniques (PCA and NMF) in R to explore cfMeDIP- seq fragmentation data, identifying the most distinguishing features for further analysis.",
+      "Trained a KNN classifier to distinguish lymphoma cases from healthy controls, exploring the utility of using pooled cfDNA fragmentation profiles as diagnostic biomarkers.",
+      "Developed and documented Unix shell scripts for reproducible data preprocessing on HPC clusters, enabling robust analysis and ensuring smooth project handover.",
+      "Presented research findings through weekly lab meetings, written reports, and a poster at Cancer 360+ Research Day, effectively communicating results to PI, peers, collaborators, and other student researchers.",
+      "Engaged in journal clubs and research progress meetings, staying current with lymphoma genomics literature and providing constructive feedback on experimental approaches and data analysis."
     ]
   },
     {

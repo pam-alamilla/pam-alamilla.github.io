@@ -20,7 +20,20 @@
       "url": "https://linkedin.com/in/pamela-alamilla/"
     }]
   },
-  "work": [{
+  "industry experience": [{
+    "name": "Deep Genomics, Target and Systems Biology",
+    "position": "Research Intern",
+    "url": "https://deepgenomics.com/",
+    "startDate": "2025-01",
+    "endDate": "",
+    "summary": "",
+    "highlights": [
+      "Point 1",
+      "Point 2",
+      "Point 3"
+    ]
+  },
+    "work": [{
     "name": "Deep Genomics",
     "position": "Research Intern",
     "url": "https://deepgenomics.com/",

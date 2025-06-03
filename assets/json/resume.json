@@ -4,12 +4,8 @@
     "label": "Computational Biologist",
     "image": "",
     "email": "pam.alamilla@gmail.com",
-    "phone": "",
-    "url": "",
     "summary": "A summary of Pam…",
     "location": {
-      "address": "",
-      "postalCode": "",
       "city": "Toronto",
       "countryCode": "CA",
       "region": "Ontario"
@@ -26,7 +22,6 @@
     "url": "https://deepgenomics.com/",
     "startDate": "2025-01",
     "endDate": "",
-    "summary": "",
     "highlights": [
       "Point 1",
       "Point 2",

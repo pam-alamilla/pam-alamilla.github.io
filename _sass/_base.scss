@@ -284,14 +284,14 @@ ul.task-list input[type="checkbox"] {
   }
 
   .navbar-brand {
-    color: var(--global-text-color);
+    color: var(--global-hover-text-color);
   }
 
   .navbar-nav .nav-item .nav-link {
-    color: var(global-hover-text-color);
+    color: var(--global-hover-text-color);
 
     &:hover {
-      color: var(global-hover-text-color);
+      color: var(--global-hover-text-color);
     }
   }
 
@@ -301,7 +301,7 @@ ul.task-list input[type="checkbox"] {
     color: var(--global-hover-text-color);
 
     &:hover {
-      color: var(--global-hover-color);
+      color: var(--global-hover-text-color);
     }
   }
 

@@ -10,105 +10,106 @@
       "countryCode": "CA",
       "region": "Ontario"
     },
-    "profiles": [{
+    "profiles": [
+      {
       "network": "LinkedIn",
       "username": "pamela-alamilla",
       "url": "https://linkedin.com/in/pamela-alamilla/"
-    }]
-  },
-    "work": [{
-    "name": "Deep Genomics, Target & Systems Biology",
-    "position": "Research Intern",
-    "url": "https://deepgenomics.com/",
-    "startDate": "2025-01",
-    "endDate": "",
-    "highlights": [
-      "Point 1",
-      "Point 2",
-      "Point 3"
+      }
     ]
   },
+  "work": [
     {
-    "name": "Princess Margaret Cancer Centre, Kridel Lab",
-    "position": "Research Assistant",
-    "url": "http://kridel-lab.ca/",
-    "startDate": "2024-04",
-    "endDate": "2024-12",
-    "summary": "",
-    "highlights": [
-      "Applied dimensionality reduction techniques (PCA and NMF) in R to explore cfMeDIP- seq fragmentation data, identifying the most distinguishing features for further analysis.",
-      "Trained a KNN classifier to distinguish lymphoma cases from healthy controls, exploring the utility of using pooled cfDNA fragmentation profiles as diagnostic biomarkers.",
-      "Developed and documented Unix shell scripts for reproducible data preprocessing on HPC clusters, enabling robust analysis and ensuring smooth project handover.",
-      "Presented research findings through weekly lab meetings, written reports, and a poster at Cancer 360+ Research Day, effectively communicating results to PI, peers, collaborators, and other student researchers.",
-      "Engaged in journal clubs and research progress meetings, staying current with lymphoma genomics literature and providing constructive feedback on experimental approaches and data analysis."
-    ]
-  },
+      "name": "Deep Genomics, Systems & Target Biology",
+      "position": "Research Intern",
+      "url": "https://deepgenomics.com",
+      "startDate": "1933-01-01",
+      "endDate": "1955-01-01",
+      "summary": "",
+      "highlights": [
+        "Conducted a literature review on knowledge graph methodologies and use cases to identify high-impact integration opportunities within the target discovery pipeline, resulting in stakeholder buy-in for a proposed minimal implementation project.",
+        "Preprocessed biomedical data from public sources using Python, then imported and structured the data in Neo4j to build a disease-specific knowledge graph composed of more than 34K nodes and 270K edges."
+      ]
+    },
     {
-    "name": "University of Toronto Surgical Skills Centre",
-    "position": "Surgical Technician",
-    "url": "http://www.uoftssc.com/",
-    "startDate": "2018-11",
-    "endDate": "2024-12",
-    "summary": "",
-    "highlights": [
-      "Point 1",
-      "Point 2",
-      "Point 3"
-    ]
-  },
+      "name": "Princess Margaret Cancer Centre, Kridel Lab",
+      "position": "Research Assistant",
+      "url": "http://kridel-lab.ca/",
+      "startDate": "2024-04",
+      "endDate": "2024-12",
+      "summary": "",
+      "highlights": [
+        "Applied dimensionality reduction techniques (PCA and NMF) in R to explore cfMeDIP- seq fragmentation data, identifying the most distinguishing features for further analysis.",
+        "Trained a KNN classifier to distinguish lymphoma cases from healthy controls, exploring the utility of using pooled cfDNA fragmentation profiles as diagnostic biomarkers.",
+        "Developed and documented Unix shell scripts for reproducible data preprocessing on HPC clusters, enabling robust analysis and ensuring smooth project handover.",
+        "Presented research findings through weekly lab meetings, written reports, and a poster at Cancer 360+ Research Day, effectively communicating results to PI, peers, collaborators, and other student researchers.",
+        "Engaged in journal clubs and research progress meetings, staying current with lymphoma genomics literature and providing constructive feedback on experimental approaches and data analysis."
+      ]
+    },
     {
-    "name": "Pardee Lab, University of Toronto",
-    "position": "Research Assistant",
-    "url": "https://www.pardeelab.org/",
-    "startDate": "2022-10",
-    "endDate": "2023-03",
-    "summary": "",
-    "highlights": [
-      "Point 1",
-      "Point 2",
-      "Point 3"
-    ]
-  },
+      "name": "University of Toronto Surgical Skills Centre",
+      "position": "Surgical Technician",
+      "url": "http://www.uoftssc.com/",
+      "startDate": "2018-11",
+      "endDate": "2024-12",
+      "summary": "",
+      "highlights": [
+        "Point 1",
+        "Point 2",
+        "Point 3"
+      ]
+    },
     {
-    "name": "Division of Teaching Labs, University of Toronto",
-    "position": "Medicine Youth Summer Program Instructor",
-    "url": "https://ysp.utoronto.ca/",
-    "startDate": "2022-05",
-    "endDate": "2022-08",
-    "summary": "",
-    "highlights": [
-      "Point 1",
-      "Point 2",
-      "Point 3"
-    ]
-  },
+      "name": "Pardee Lab, University of Toronto",
+      "position": "Research Assistant",
+      "url": "https://www.pardeelab.org/",
+      "startDate": "2022-10",
+      "endDate": "2023-03",
+      "summary": "",
+      "highlights": [
+        "Point 1",
+        "Point 2",
+        "Point 3"
+      ]
+    },
     {
-    "name": "Department of Molecular Genetics, University of Toronto",
-    "position": "Course Development Assistant",
-    "url": "",
-    "startDate": "2021-10",
-    "endDate": "2022-03",
-    "summary": "",
-    "highlights": [
-      "Point 1",
-      "Point 2",
-      "Point 3"
-    ]
-  },
+      "name": "Division of Teaching Labs, University of Toronto",
+      "position": "Medicine Youth Summer Program Instructor",
+      "url": "https://ysp.utoronto.ca/",
+      "startDate": "2022-05",
+      "endDate": "2022-08",
+      "summary": "",
+      "highlights": [
+        "Point 1",
+        "Point 2",
+        "Point 3"
+      ]
+    },
     {
-    "name": "Osmond Lab, University of Toronto",
-    "position": "Population Genetics Research Assistant",
-    "url": "https://osmond-lab.github.io/",
-    "startDate": "2021-05",
-    "endDate": "2021-08",
-    "summary": "",
-    "highlights": [
-      "Modelled the evolution of diploid genomes in 2D space with SLiM simulation program.",
-      "Scripted in Python and Unix Shell to extract simulated genomic data and visualize coalescent trees.",
-      "Collaborated with lab members during weekly lab meetings and on Slack messaging platform to solve coding problems and share individual progress.",
-      "Proposed and organized the execution of a team project to generate a tree visualization tutorial for academics."
-    ]
-  }
+      "name": "Department of Molecular Genetics, University of Toronto",
+      "position": "Course Development Assistant",
+      "url": "",
+      "startDate": "2021-10",
+      "endDate": "2022-03",
+      "summary": "",
+      "highlights": [
+        "Point 1",
+        "Point 2",
+        "Point 3"
+      ]
+    },
+    {
+      "name": "Osmond Lab, University of Toronto",
+      "position": "Population Genetics Research Assistant",
+      "url": "https://osmond-lab.github.io/",
+      "startDate": "2021-05",
+      "endDate": "2021-08",
+      "summary": "",
+      "highlights": [
+        "Point 1",
+        "Point 2"
+      ]
+    }
   ],
   "education": [{
     "institution": "University of Toronto",

@@ -167,10 +167,16 @@
   }
   ],
   "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
+    "name": "Machine Learning",
+    "date": "2024-06",
+    "issuer": "Compute Ontario",
+    "url": ""
+  },
+    {
+    "name": "Baseline Curation Training",
+    "date": "2023-11",
+    "issuer": "ClinGen Resource",
+    "url": ""
   }],
   "skills": [{
     "name": "Web Development",
@@ -183,8 +189,17 @@
   }],
   "languages": [{
     "language": "English",
-    "fluency": "Native speaker"
-  }],
+    "fluency": "Native"
+  }
+    {
+    "language": "Spanish",
+    "fluency": "Native"
+  }
+    {
+    "language": "French",
+    "fluency": "Intermediate"
+  }
+  ],
   "interests": [{
     "name": "Wildlife",
     "keywords": [

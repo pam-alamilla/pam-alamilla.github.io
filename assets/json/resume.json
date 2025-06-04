@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Pamela Alamilla",
-    "label": "Computational Biologist",
+    "label": "",
     "image": "",
     "email": "pam.alamilla@gmail.com",
     "phone": "",
     "url": "",
-    "summary": "A summary goes here...",
+    "summary": "Computational biologist with a strong theoretical foundation in human genomics and solid programming skills. Experienced in integrating and analyzing multiomics data to uncover clinically relevant genes and pathways. Skilled in selecting and applying computational methods for biomarker and target discovery, running bioinformatics pipelines, and producing insightful data visualizations.",
     "location": {
       "address": "",
       "postalCode": "",

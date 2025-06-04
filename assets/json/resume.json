@@ -77,6 +77,17 @@
       "endDate": "2025-06",
       "score": "",
       "courses": [""]
+    },
+    {
+      "institution": "University of Toronto",
+      "location": "Toronto, Canada",
+      "url": "",
+      "area": "Molecular Genetics & Microbiology, Cell & Molecular Biology",
+      "studyType": "Honours Bachelor of Science",
+      "startDate": "2019-09",
+      "endDate": "2023-06",
+      "score": "",
+      "courses": [""]
     }
   ],
   "awards": [

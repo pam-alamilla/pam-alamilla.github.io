@@ -154,6 +154,16 @@
         "Galaxy",
         "Bioconductor"
       ]
+    },
+    {
+      "name": "Languages",
+      "level": "",
+      "icon": "fa-solid fa-comment",
+      "keywords": [
+        "English (Native)",
+        "Spanish (Native)",
+        "French (Intermediate)"
+      ]
     }
   ],
   "languages": [

@@ -149,7 +149,7 @@
     {
       "name": "Bioinformatics Tools",
       "level": "",
-      "icon": "fa-solid fa-code",
+      "icon": "fa-solid fa-file-lines",
       "keywords": [
         "Galaxy",
         "Bioconductor"

@@ -165,22 +165,5 @@
         "French (Intermediate)"
       ]
     }
-  ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Native",
-      "icon": ""
-    },
-    {
-      "language": "Spanish",
-      "fluency": "Native",
-      "icon": ""
-    },
-    {
-      "language": "French",
-      "fluency": "Intermediate",
-      "icon": ""
-    }
   ]
 }

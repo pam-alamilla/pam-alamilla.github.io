@@ -24,13 +24,19 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Deep Genomics, Target & Systems Biology",
+      "position": "Research Intern",
+      "url": "https://deepgenomics.com",
+      "startDate": "2025-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Conducted a literature review on knowledge graph methodologies and use cases to identify high-impact integration opportunities within the target discovery pipeline, resulting in stakeholder buy-in for a proposed minimal implementation project.",
+        "Preprocessed biomedical data from public sources using Python, then imported and structured the data in Neo4j to build a disease-specific knowledge graph composed of more than 34K nodes and 270K edges.",
+        "Implemented a metapath-based approach to identify gene-disease associations and then presented findings to senior leadership, securing approval to scale the project into a larger graph integrating internal and public data.",
+        "Defining the schema for a larger pilot knowledge graph and identifying publicly available multi-omics data sources and biomedical ontologies with permissive licenses.",
+        "Preprocessing proprietary data and mapping biological entities to stable identifiers, enabling their inclusion in the pilot knowledge graph."
+      ]
     }
   ],
   "volunteer": [

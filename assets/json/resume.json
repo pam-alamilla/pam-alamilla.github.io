@@ -153,13 +153,18 @@
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
+      "language": "English",
+      "fluency": "Native",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "Spanish",
+      "fluency": "Native",
+      "icon": ""
+    },
+    {
+      "language": "French",
+      "fluency": "Intermediate",
       "icon": ""
     }
   ],
